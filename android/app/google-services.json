@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "629241848222",
+    "firebase_url": "https://the-kitchen-b74f4.firebaseio.com",
+    "project_id": "the-kitchen-b74f4",
+    "storage_bucket": "the-kitchen-b74f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629241848222:android:b48ee9b6b012520f",
+        "android_client_info": {
+          "package_name": "com.shadyaziza.thekitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629241848222-v2bmr7o8df9cgmf0dk7e8ha080keg590.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shadyaziza.thekitchen",
+            "certificate_hash": "87aae96ebf43a4153549693f37c7432963e6883e"
+          }
+        },
+        {
+          "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQbyl6TmfZbEqXUuGo_YgoPNQtjkaypA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
